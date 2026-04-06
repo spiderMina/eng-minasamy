@@ -42,7 +42,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mina-samy&show_icons=true&theme=dark" width="48%"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina-samy&layout=compact&theme=dark" width="48%"/> 
